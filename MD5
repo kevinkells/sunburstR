@@ -1,12 +1,16 @@
-6d51226783d7c3fd9b423b3c68c2fb42 *DESCRIPTION
+789416ffdca96fb8c5ab1b8c5a949744 *DESCRIPTION
 d863c76b0410281271c62c58c6639147 *LICENSE
 33898bd0ce5ed1c4b80b9a11d6606eba *NAMESPACE
-2c5839f4802157f760febc1855f317c7 *NEWS.md
+d817bc1d6f15f6e1deb0d577b1faaa71 *NEWS.md
 87bdc93fd0c4606c318092ebd6505fbc *R/converters.R
 f26dbcdff728c505295f11222ae6ffc2 *R/d2b.R
 cb8ecf2902af8c865f8c5bd3b834626f *R/shiny.R
 a166cca62e2a292f27a400e2d54565ac *R/sunburst.R
 a6c526b1dca390e411dec60882e20c76 *README.md
+2927d0eec5f736f8be6e408db08d6006 *build/vignette.rds
+4f7b3a89cf7e983d59678a4f1252805c *inst/doc/sunburst-2-0-0.R
+b164f749473518826db149212fa9a9c4 *inst/doc/sunburst-2-0-0.Rmd
+9f06a7aca58f4450b94d214a158ec4e4 *inst/doc/sunburst-2-0-0.html
 1c7237dadff768288d67ff221f60eadd *inst/examples/example_TraMineR.R
 7dfdf27830e28a64be0aedcbd61f9f7c *inst/examples/example_baseball.Rmd
 3890f5a4c2335aed3dd71fe0239ed3ee *inst/examples/example_baseball_shiny.R
@@ -24,8 +28,8 @@ b30884872dcbdaea031f7a1b00d6d16c *inst/examples/visit-sequences.csv
 d962b2177f39cdc628d8b72160e9379a *inst/examples/visit-sequences.json
 870cf456ef948da164cd2600c9d626e7 *inst/htmlwidgets/lib/d2b/LICENSE
 1d3cd673cd186a1aa090ecde2ab74c4d *inst/htmlwidgets/lib/d2b/README.md
-4772870d1ca5d2fcb64e3d65e9973e76 *inst/htmlwidgets/lib/d2b/d2b.js
-a571c4f691e8c5ae5983b0801499afc3 *inst/htmlwidgets/lib/d2b/d2b.min.js
+cada022d3c84450344603a432df536d7 *inst/htmlwidgets/lib/d2b/d2b.js
+4cc8b1bf950beb116c31751b8efd6a7a *inst/htmlwidgets/lib/d2b/d2b.min.js
 558c60d691466196b83930f4594761a5 *inst/htmlwidgets/lib/d2b/d2b_custom.css
 f36f9f67b97c68103a39fac35fecc02c *inst/htmlwidgets/lib/d2b/package.json
 a4ba6b46afd5f7b6467078d8539532e8 *inst/htmlwidgets/lib/sequences/README.md
@@ -40,4 +44,5 @@ ed2cb21c59a743a85a0459edbe7140b0 *man/d2b-shiny.Rd
 7dc850dea5ef5d1c00f791d660ac88b6 *man/sunburst.Rd
 60bdfd3e063aafb26765a4b079532b0f *man/sund2b.Rd
 d894b48449af278f1098dfc9be809860 *tests/testthat.R
-a9fca4e860a18163395531a4f05112c6 *tests/testthat/test-basic.R
+ab66230f40c91b291d293018ddefdd00 *tests/testthat/test-basic.R
+b164f749473518826db149212fa9a9c4 *vignettes/sunburst-2-0-0.Rmd
