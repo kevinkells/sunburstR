@@ -30,6 +30,7 @@
 
 .sunburst-chart path {
   stroke: #fff;
+  stroke-width: 0;
 }
 
 .sunburst-explanation {
